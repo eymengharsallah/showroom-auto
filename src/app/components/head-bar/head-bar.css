@@ -1,7 +1,15 @@
-.header{
-    padding:20px;
-    text-align: center;
-    color: blueviolet;
-    background-color: antiquewhite;
+.header {
+  padding: 50px 20px;
+  text-align: center;
+  color: #fff;
+  background: linear-gradient(135deg, #4b1d8f, #ff4fc3);
+  box-shadow: 0 4px 20px rgba(75, 29, 143, 0.3);
+}
 
+.header h1,
+.header h2 {
+  margin: 0;
+  font-size: 38px;
+  letter-spacing: 1px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
 }
